@@ -1,6 +1,0 @@
----
-bio: I'm awesome
-fullname: Frederic Jacobs
-username: fred
-twitter: fredericjacobs
----
