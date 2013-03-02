@@ -8,7 +8,7 @@ slug : hackepfl
 category : [personal]
 tags : [epfl, hackers, hacks, hack, hacking, culture]
 ---
-Over the past few months I've been thinking a lot about dropping-out to move to Silicon Valley full-time. I found out that moving to the Valley wasn't the answer to my problem. Instead of just complaining about lack of innovation and its underlying reasons in Switzerland I just gathered everything I knew about entrepreneurship, hacking and having fun to merge them into a single organization, HackEPFL
+Over the past few months I've been thinking a lot about dropping-out to move to Silicon Valley full-time. I found out that moving to the Valley wasn't the answer to my problem. Instead of just complaining about lack of innovation and its underlying reasons in Switzerland I just gathered everything I knew about entrepreneurship, hacking and having fun to merge them into a single organization, HackEPFL.
 
 ## Arriving to EPFL
 
