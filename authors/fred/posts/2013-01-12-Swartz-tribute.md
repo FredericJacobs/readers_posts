@@ -22,7 +22,7 @@ by [konstruktor](http://news.ycombinator.com/item?id=5047394)
 You might wanna read some more about Aaron, these articles are brilliant :
 
 - [Sick](http://www.aaronsw.com/weblog/verysick)
-- [HowToGet](http://thequeue.org/cr?id=https%3A%2F%2Faaronsw.jottit.com%2Fhowtoget&amp;title=Aaron+Swartz%3A+howtoget)
+- [HowToGet](http://thequeue.org/cr?id=https%3A%2F%2Faaronsw.jottit.com%2Fhowtoget&;title=Aaron+Swartz%3A+howtoget)
 - [Dying](http://www.aaronsw.com/weblog/dying)
 
 ![Aaron](http://cl.ly/M9KI/Image%202013.01.12%205:53:29%20PM.png)

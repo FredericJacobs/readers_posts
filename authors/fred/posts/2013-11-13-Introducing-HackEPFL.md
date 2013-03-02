@@ -18,7 +18,7 @@ But EPFL (aka Swiss Federal Institute of Technology) seemed incredibly promising
 
 A lot of people confirmed this, I was talking to a friend who studied at ETHZ (The German speaking Swiss Institute of Technology)
 
-> EPFL and ETHZ are like two school children. But if ETHZ is the top of the class kid, EPFL is more Rock &amp; Roll kid. 
+> EPFL and ETHZ are like two school children. But if ETHZ is the top of the class kid, EPFL is more Rock &; Roll kid. 
 
 That being said, my choice was immediate. It's a really inspiring environment. The mountains, the lake, the buildings and the climate are all part of this very enjoyable environment. Low-tuition fees (around 600$ / semester for foreigners) makes it incredibly attractive even for overseas students. 
 
