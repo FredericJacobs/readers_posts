@@ -40,7 +40,7 @@ A lot of Facebook users are Instagram users and most of those who aren't are pro
 
 ![Zuck](http://f.cl.ly/items/3i0h3Y123p1R2T1h2h0V/IMG_0031.JPG)
 
-Yes. Facebook is known for [big talent acquisitions](http://en.wikipedia.org/wiki/List_of_acquisitions_by_Facebook). Facebook is a company that has one of the best engineering cultures in the industry. They are clearly an excellent place to work for brilliant engineers. But for some reasons Facebook always sucked at design. All talented designers at Facebook joined after startup's acquisitions. Made by Sofa, Gowalla &; Beluga are only a few examples of this. 
+Yes. Facebook is known for [big talent acquisitions](http://en.wikipedia.org/wiki/List_of_acquisitions_by_Facebook). Facebook is a company that has one of the best engineering cultures in the industry. They are clearly an excellent place to work for brilliant engineers. But for some reasons Facebook always sucked at design. All talented designers at Facebook joined after startup's acquisitions. Made by Sofa, Gowalla & Beluga are only a few examples of this. 
 
 Except, Instagram is different. Zuckerberg has posted an article to announce the Instagram acquisition in which he clearly points out the Instagram Experience and that they are commited to continue building and growing Instagram  independently. 
 

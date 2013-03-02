@@ -45,9 +45,9 @@ Anyone can post on Twitter and curate tweets about a specific topic selecting th
 
 On the other side, the Guardian (UK), the New-York Times (US) and LeMonde.fr are some of my favorites newspapers because they succeed in having redactors for each specific topic that has a deep knowledge about the topic. And this is definitely priceless. I can easily pay for an Economist weekly edition if it's full of analysis of news by people qualified about a specific topic but I would never pay just to have information without any analysis of these same events.  
 
-These is one place though on the internet where "Ask a specialist columns" are being replaced. [Quora](http://www.quora.com) is a Q&;A website where specialists provide extraordinary answers related to the topics they are following. A lot of answers on Quora are posted by leading specialists in the questioned field. It's the Wikipedia of Q&;A.
+These is one place though on the internet where "Ask a specialist columns" are being replaced. [Quora](http://www.quora.com) is a Q&A website where specialists provide extraordinary answers related to the topics they are following. A lot of answers on Quora are posted by leading specialists in the questioned field. It's the Wikipedia of Q&A.
 
-### Data Collection &; Visualization 
+### Data Collection & Visualization 
 
 A lot of information can be collected using social media. But unfortunately, humans are bad with numbers and these are not often meaningful. 
 
